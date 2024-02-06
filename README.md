@@ -15,10 +15,36 @@ Boop is an innovative mental health platform designed to identify and support in
 - Awarded "Best Project in Mental Hack" for enhancing digital well-being and innovative use of machine learning for mental health support. 
 - Recognized for its innovative use of AI and API integrations to facilitate immediate support and intervention for individuals exhibiting signs of mental distress.
 
-
-
+## Demo
+[Technical Demo](https://youtu.be/Yrkgv3PpxnY)
 
 ## Installation
 To set up Boop for development or personal use, follow these steps:
 
+**1. clone git repo**
+```
+git clone https://github.com/nick-ching23/boop.git
+cd boop
+```
 
+**2. Set Up a Virtual Environment**
+```
+python3 -m venv venv
+source venv/bin/activate  # On Unix/macOS
+.\venv\Scripts\activate   # On Windows
+```
+**3. Install Dependencies**
+```
+pip install -r requirements.txt
+```
+
+**4. Run Application**
+```
+python3 main.py
+```
+## Usage 
+
+After launching Boop, navigate to http://localhost:5000 in your web browser to access the application. Users can interact with the platform to understand the AI's analysis and receive guidance on potential intervention strategies.
+
+## License
+Boop is released under the MIT License. See the LICENSE file for more details.
