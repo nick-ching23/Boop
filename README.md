@@ -29,6 +29,7 @@ cd boop
 
 **2. Download the model binary and move it to 'boop' folder**
 - [Google Drive Model Link](https://drive.google.com/file/d/1X9agZvBPm0p34b6zIUUjo1Zw_owoar5d/view?usp=sharing)
+- Move model_v2.pth to the folder 'boop'
 
 **2. Set Up a Virtual Environment**
 ```
