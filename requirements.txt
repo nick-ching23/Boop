@@ -34,3 +34,5 @@ transformers==4.37.2
 typing_extensions==4.9.0
 urllib3==1.26.18
 Werkzeug==3.0.1
+git+https://github.com/xavdid/reddit-user-to-sqlite.git#egg=reddit-user-to-sqlite
+
